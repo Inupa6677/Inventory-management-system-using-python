@@ -1,0 +1,42 @@
+(1) Name - James Anderson
+    Contact number - 0711238990.
+    Location - Colombo. 
+    Item_name = Speaker, Item_brand = samsung, Item_price = $20, Item_quantity = 5
+    Item_name = Monitor, Item_brand = samsung, Item_price = $50, Item_quantity = 7
+    Item_name = Keyboard, Item_brand = samsung, Item_price = $10, Item_quantity = 9
+
+(2) Name - Kevin Peterson
+    Contact number - 0773434678.
+    Location - Negombo. 
+    Item_name = Cupboard, Item_brand = Damro, Item_price = $100, Item_quantity = 3
+    Item_name = Monitor, Item_brand = HP, Item_price = $45, Item_quantity = 8
+    Item_name = Desk, Item_brand = Arpico, Item_price = $70, Item_quantityy = 10
+   
+(3) Name - Mark Wood
+    Contact number - 0704556345.
+    Location - Kandy.
+    Item_name = Speaker, Item_brand = JBL, Item_price = $22, Item_quantity = 3
+    Item_name = Desk, Item_brand = Damro, Item_price = $75, Item_quantity = 9
+    Item_name = Generator, Item_brand = Yamaha, Item_price = $1500, Item_quantity = 1
+
+(4) Name - Kane williamson
+    Contact number - 0771233454.
+    Location - Kegalle. 
+    Item_name = Cupboard, Item_brand = Damro, Item_price = $95, Item_quantity = 3
+    Item_name = Monitor, Item_brand = Apple, Item_price = $55, Item_quantity = 10
+    Item_name = PC, Item_brand = Dell, Item_price = $250, Item_quantity = 10
+
+(5) Name - Will Smith
+    Contact number - 0709988876.
+    Location - Colombo. 
+    Item_name = Headphone, Item_brand = samsung, Item_price = $55, Item_quantity = 10
+    Item_name = CCTV camara, Item_brand = abc, Item_price = $35, Item_quantity = 8
+    Item_name = Keyboard, Item_brand = Dell, Item_price = $12, Item_quantity = 10
+
+(6) Name - John Hopkings
+    Contact number - 0762334552.
+    Location - Galle. 
+    Item_name = Generator, Item_brand = Yamaha, Item_price = $1800, Item_quantity = 1
+    Item_name = Desk, Item_brand = aaa, Item_price = $75, Item_quantity = 11
+    Item_name = Mouse, Item_brand = Havic, Item_price = $5, Item_quantity = 10
+    

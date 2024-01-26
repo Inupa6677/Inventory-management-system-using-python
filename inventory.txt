@@ -1,0 +1,1 @@
+{2: {'Item code': 2, 'Item name': 'dwc', 'Item brand': 'wcd', 'Item price': 22.0, 'Item quantity': 33, 'Item category': 'lll', 'Purchased date': '1999-09-09', 'Item_price': 2222.0}}
